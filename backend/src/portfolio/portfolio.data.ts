@@ -4,11 +4,11 @@ export const portfolioData = {
     monogram: 'SM',
     title: 'Full-Stack Developer',
     status: 'Open to Full-Time Roles',
-    headlineLead: 'Building Reliable',
+    headlineLead: 'Building Scalable',
     headlineAccent: 'Full-Stack Web',
-    headlineTail: 'Products',
+    headlineTail: 'Applications',
     summary:
-      'I turn product requirements into responsive React and Next.js interfaces, secure Node.js and NestJS APIs, and role-based admin workflows.',
+      'I build end-to-end web apps with React, Next.js, and Node.js, from REST APIs and authentication to admin dashboards and responsive interfaces.',
     email: 'smitrajsinhmakvana@gmail.com',
     phone: '+91 9327178482',
     location: 'India • Open to Remote',
@@ -169,6 +169,8 @@ export const portfolioData = {
         'Vacation rental platform inspired by Airbnb, with property CRUD, real-time booking, secure authentication, and a responsive interface.',
       imageBg: 'from-brand-900 to-indigo-950',
       tech: ['Node.js', 'Express', 'MongoDB', 'EJS'],
+      demoUrl: 'https://github.com/Smitraj24',
+      githubUrl: 'https://github.com/Smitraj24',
       highlight: '🏠 Booking + Listings',
       caseStudy: {
         problem:
@@ -192,6 +194,8 @@ export const portfolioData = {
         'Secure password manager with Bcrypt encryption, user-specific access control, and a React frontend talking to a Node/Express/Mongo API.',
       imageBg: 'from-emerald-950 to-slate-950',
       tech: ['React.js', 'Node.js', 'Express', 'MongoDB', 'Bcrypt'],
+      demoUrl: 'https://github.com/Smitraj24',
+      githubUrl: 'https://github.com/Smitraj24',
       highlight: '🔒 Bcrypt + Access Control',
       caseStudy: {
         problem:
@@ -215,6 +219,8 @@ export const portfolioData = {
         'Admin dashboard and user-management modules with role-based access, CRUD, REST API integration, and authentication — built during real-world project work at Krishang Technolab.',
       imageBg: 'from-violet-950 to-slate-950',
       tech: ['React.js', 'Next.js', 'Nest.js', 'REST APIs', 'MongoDB', 'PostgreSQL'],
+      demoUrl: 'https://github.com/Smitraj24',
+      githubUrl: 'https://github.com/Smitraj24',
       highlight: '🛡️ RBAC Dashboards',
       caseStudy: {
         problem:
@@ -235,15 +241,15 @@ export const portfolioData = {
     {
       role: 'Full-Stack Developer',
       company: 'Krishang Technolab',
-      period: 'Present',
+      period: '4 months (Present)',
       meta: 'Full-time • Web applications end to end',
       color: 'brand',
       bullets: [
-        'Build responsive React.js and Next.js interfaces for dashboards and user workflows.',
-        'Integrate Nest.js and Express.js REST APIs with MongoDB and PostgreSQL data flows.',
-        'Implement authentication, authorization, and role-based access for application features.',
-        'Develop CRUD operations and troubleshoot issues across the frontend, API, and database.',
-        'Collaborate from feature requirements through implementation and testing.',
+        'Develop and maintain full-stack web applications using React.js, Next.js, Node.js, Nest.js, Express.js, MongoDB, and PostgreSQL.',
+        'Build and integrate REST APIs connecting frontend interfaces with backend services and databases.',
+        'Implement authentication and authorization flows to secure application features and user data.',
+        'Perform database operations (CRUD, queries, schema updates) across MongoDB and PostgreSQL, and debug issues to maintain stability and performance.',
+        'Develop and refine responsive UI components, collaborating on feature development from requirements to working, tested functionality.',
       ],
       tech: ['React.js', 'Next.js', 'Node.js', 'Nest.js', 'Express.js', 'MongoDB', 'PostgreSQL'],
     },
